@@ -6,9 +6,12 @@ Find the correct country
 
 
 **📸 Screenshots**                                                                         
-![image](https://github.com/user-attachments/assets/11c0f349-66c8-42be-a9a7-ca28fafc8e3c)
-![image](https://github.com/user-attachments/assets/b1d9558f-e456-4627-bb36-e5cb92af0efd)
-![image](https://github.com/user-attachments/assets/bb50c7ec-5c51-43b5-880d-c384a99211a4)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/11c0f349-66c8-42be-a9a7-ca28fafc8e3c" width="200">
+  <img src="https://github.com/user-attachments/assets/b1d9558f-e456-4627-bb36-e5cb92af0efd" width="200">
+  <img src="https://github.com/user-attachments/assets/bb50c7ec-5c51-43b5-880d-c384a99211a4" width="200">
+</p>
+
 
 #
 
