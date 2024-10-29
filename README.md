@@ -23,10 +23,10 @@ Gives questions about countries.
 
 🛠️ Technologies                                                     
 
-Activity - for screens.                                                                   
-Shared preference - for saving results.                                                       
-MVP - for pattern.                                                                     
-Diagrams - for showing result.                                                   
+**Activity** - for screens.                                                                   
+**Shared preference** - for saving results.                                                       
+**MVP** - for pattern.                                                                     
+**Diagrams** - for showing result.                                                   
 
 #
 
